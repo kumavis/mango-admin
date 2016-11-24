@@ -22,7 +22,7 @@
   "homepage": "https://github.com/axic/mango-admin#readme",
   "dependencies": {
     "web3": "^0.16.0",
-    "yargs": "^4.7.1"
+    "yargs": "^6.4.0"
   },
   "yargs": {
     "parse-numbers": false
